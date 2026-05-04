@@ -42,7 +42,7 @@ export default function App() {
           paragraph="Bring the warmth of our Florentine kitchen into your home. Curated provisions, limited edition pantry staples and culinary gifts crafted with intention."
           ctaLabel="DISCOVER"
           ctaHref="#shop"
-          imageUrl="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&auto=format&fit=crop"
+          imageUrl="https://images.unsplash.com/photo-1551529563-fce9529e67ac?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFuJTIwaW4lMjByZXN0YXVyYW50fGVufDB8fDB8fHww"
           imageShape="arch"
           direction="right"
         />
@@ -53,7 +53,7 @@ export default function App() {
           paragraph="Founded in 2018, Bella Osteria was born from the vision of uniting Florentine culinary tradition with creative modernity — a space where every gathering becomes unforgettable."
           ctaLabel="DISCOVER"
           ctaHref="#about"
-          imageUrl="https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=800&auto=format&fit=crop"
+          imageUrl="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJlc3RhdXJhbnQlMjBmb29kfGVufDB8fDB8fHww"
           imageShape="arch"
           direction="left"
         />
